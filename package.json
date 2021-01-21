@@ -23,7 +23,7 @@
     "@material-ui/icons": "^4.9.1",
     "clsx": "^1.1.0",
     "hoist-non-react-statics": "^3.3.0",
-    "immer": "^6.0.2",
+    "immer": "^8.0.1",
     "invariant": "^2.2.4",
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
